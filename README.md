@@ -1,7 +1,7 @@
-<h1 align="center">Hi there , im Mohamed ABRACHE 👋</h1>
-
+<h1 align="center">Hi 👋, I'm Mohamed abrache</h1>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 <p>
-Currently a second-year student at Yocode (UM6P) School in Youssoufia Morocco , I am eager to apply my skills and gain hands-on experience in the field. I am seeking opportunities to contribute to a dynamic and innovative team, and to further develop my skills as a web developer.
+Currently a second-year student at Yocode (UM6P) School in Youssoufia , I am eager to apply my skills and gain hands-on experience in the field. I am seeking opportunities to contribute to a dynamic and innovative team, and to further develop my skills as a web developer.
 
 </p>
 
@@ -22,11 +22,11 @@ Currently a second-year student at Yocode (UM6P) School in Youssoufia Morocco , 
 <h2 align="center">My github statistics</h2>
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medabra&show_icons=true&theme=tokyonight&line_height=28&rank_icon=github" alt="Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medabra&layout=donut&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ABRACHE01&show_icons=true&theme=tokyonight&line_height=28&rank_icon=github" alt="Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABRACHE01&layout=donut&theme=tokyonight" alt="Top Languages" />
 </div>
 <div align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=medabra&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" alt="Streak Stats" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ABRACHE01&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" alt="Streak Stats" />
 </div>
 
 <h2 align="center">Reach me out on </h2>
@@ -42,5 +42,6 @@ If you're looking for a talented and motivated web developer to join your team, 
   <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedin" />
  </a>
 </div>
+
 
   
