@@ -1,7 +1,7 @@
 <h1 align="center">Hi there , im Mohamed ABRACHE 👋</h1>
 
 <p>
-Currently a second-year student at Yocode (UM6P) School in Youssoufia, I am eager to apply my skills and gain hands-on experience in the field. I am seeking opportunities to contribute to a dynamic and innovative team, and to further develop my skills as a web developer.
+Currently a second-year student at Yocode (UM6P) School in Youssoufia Morocco , I am eager to apply my skills and gain hands-on experience in the field. I am seeking opportunities to contribute to a dynamic and innovative team, and to further develop my skills as a web developer.
 
 </p>
 
